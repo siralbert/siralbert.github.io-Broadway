@@ -10,6 +10,14 @@ h1 {
   color: white;
 }
 
+h2{
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
 header{
   background-image: url(../images/the-flatiron-building.png);
 }
@@ -20,14 +28,20 @@ footer{
   color: white;
 }
 
+footer nav{
+  display: inline;
+}
+
 .btn-nav {
   color: white;
   font-size: 18px;
 }
 
-footer nav{
-  display: inline;
+.divider{
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
 }
+
 
 #copy{
   font-size: 11px;

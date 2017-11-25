@@ -19,8 +19,10 @@ footer p {
   display: inline;
 }
 
-footer a:-webkit-any-link {
+.btn-nav {
+  display: inline;
   color: white;
+  font-size: 18px;
 }
 
 #copy{

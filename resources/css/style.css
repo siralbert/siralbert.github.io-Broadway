@@ -6,7 +6,7 @@ body{
 
 h1 {
   font-weight: bold;
-  font-size: 50px;
+  font-size: 70px;
   color: white;
 }
 
@@ -16,6 +16,10 @@ h2{
 
 h3 {
   font-size: 23px;
+}
+
+p{
+  font-size: 14px;
 }
 
 header{
@@ -41,7 +45,6 @@ footer nav{
   color: white;
   background-image: url(../images/the-flatiron-building.png);
 }
-
 
 #copy{
   font-size: 11px;
